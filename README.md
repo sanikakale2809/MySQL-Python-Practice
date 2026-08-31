@@ -32,6 +32,3 @@ This repository contains my Python and MySQL practice programs using PyMySQL.
 
 The purpose of this repository is to practice database operations using Python and MySQL and to build practical SQL skills.
 
-# Author
-
-Sanika Kale
